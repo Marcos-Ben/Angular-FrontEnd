@@ -1,0 +1,13 @@
+.educacion{
+    background-color:darkcyan;
+    padding: 10px 0px 0px 0px;
+}
+.educ{
+    background-color:#20b2aa;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 0px 10px 0px 10px;
+}
+li{
+    list-style-type: none;
+}

@@ -1,0 +1,67 @@
+.modal-backdrop {
+    top: auto;
+    --bs-backdrop-opacity: 0.0;
+}
+.menu {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  margin-top: -85px;
+  margin-right: 1%;
+}
+li {
+text-decoration: none;
+list-style: none;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    float:right;
+}
+.menu a {
+    color:white;
+    text-decoration: none;
+}
+.menu a:hover{
+    background-color:#399cc4 ;
+    border-radius: 3px;
+    color: #000000;
+    box-shadow: 1px 3px 3px black;
+    opacity: 0.9;
+    padding: 10px;
+}
+i.fa-solid.fa-user-gear.fa-2xl{
+    color: #fff;
+}
+i.fa-solid.fa-user-gear.fa-2xl:hover{
+    color:#000000;
+    box-shadow: 1px black;
+}
+.list-group-horizontal{
+    margin: 10px;
+    justify-content: space-between;
+
+}
+.list-group li{
+    --bs-list-group-bg:none;
+    border:none;
+}
+.fa-brands.fa-linkedin.fa-2xl{
+    color: black;
+}
+.fa-brands.fa-linkedin.fa-2xl:hover{
+    color: blue;
+}
+.fa-brands.fa-twitter.fa-2xl{
+    color: white;
+}
+.fa-brands.fa-twitter.fa-2xl:hover{
+    color: #00ACE0;
+}
+.fa-brands.fa-github.fa-2xl{
+    color: white;
+}
+.fa-brands.fa-github.fa-2xl:hover{
+    color: black;
+}

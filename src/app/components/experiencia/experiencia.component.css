@@ -1,0 +1,13 @@
+.experiencia{
+    background-color:darkcyan;
+    padding: 10px 0px 0px 0px;
+}
+.exp{
+    border: 1px solid black;
+    background-color: #20b2aa;;
+    border-radius: 20px;
+    margin: 0px 10px 0px 10px;
+}
+li{
+    list-style-type: none;
+}

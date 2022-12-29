@@ -1,0 +1,20 @@
+.row{
+    background-color: #13acd0;
+    padding: 10px 0px 0px 0px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 0px 10px 0px 10px;
+}
+footer{
+   text-align: center; 
+}
+footer:hover{
+    color: white;
+}
+#flechitaarriba{
+    color: black;
+}
+#flechitaarriba:hover{
+    color:chartreuse;
+    box-shadow: 0px 0px 3px 0px white;
+}
