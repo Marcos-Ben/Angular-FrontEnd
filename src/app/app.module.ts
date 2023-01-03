@@ -16,6 +16,7 @@ import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { LoginComponent } from './components/login/login.component';
 import { HttpClient, HttpClientModule} from "@angular/common/http";
+import { HomeComponent } from './components/home/home.component';
 
 
 @NgModule({
@@ -31,7 +32,8 @@ import { HttpClient, HttpClientModule} from "@angular/common/http";
     HysComponent,
     ProyectosComponent,
     FooterComponent,
-    LoginComponent
+    LoginComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
